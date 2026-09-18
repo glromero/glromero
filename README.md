@@ -19,9 +19,10 @@ From there, I moved on to **Python** and **Ruby**, training in _Data Science and
 
 ### What Im Doing : 
 
-[**Blue Rings Labs**](https://github.com/BlueRingsLabs): is my lab. Everything I develop as software ships under it — the name is the brand, but I'm always behind it. Current projects:
+[**Blue Rings Labs**](https://github.com/BlueRingsLabs): My development and education laboratory, something like my brand.
 
-[**Puppizz Games**](https://github.com/Puppizz): is the other side. Indie game development — something I've wanted to do for years and I'm finally starting. First project is *Life Chronicles*, a series I'm building from scratch.
+
+[**Puppizz Games**](https://github.com/Puppizz): is the other side. Indie game development. I've wanted to do for years and I'm finally starting, little by little. First project is *Life Chronicles*
 
 ---
 
