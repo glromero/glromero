@@ -14,7 +14,7 @@ From there, I moved on to **Python** and **Ruby**, training in _Data Science and
 **I love this**.
 
 ---
-## Porfolio, Products & Projects
+## Porfolio, Products & Projects : _**On Pinned Projects.**_
 
 
 ### What Im Doing : 
@@ -25,5 +25,3 @@ From there, I moved on to **Python** and **Ruby**, training in _Data Science and
 [**Puppizz Games**](https://github.com/Puppizz): is the other side. Indie game development. I've wanted to do for years and I'm finally starting, little by little. First project is *Life Chronicles*
 
 ---
-
-###### `LOOKING FOR MY FIRST ENGINEERING ROLE. NO FORMAL EXPERIENCE. EVERYTHING HERE IS SELF-BUILT.`
