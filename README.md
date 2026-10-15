@@ -1,4 +1,4 @@
-# Hi Im Gonzalo Romero
+## Hi Im Gonzalo Romero
 
 [ **Argentina** ]  
 [ **Systems Engineering (UTN, in progress)** ]  
@@ -13,7 +13,7 @@ From there, I moved on to **Python** and **Ruby**, training in _Data Science and
 **I love this**.
 
 
-# What Im Doing : 
+### What Im Doing : 
 
  - [**Blue Rings Labs**](https://github.com/BlueRingsLabs): My development and education laboratory, something like my brand.
 
@@ -29,9 +29,9 @@ From there, I moved on to **Python** and **Ruby**, training in _Data Science and
 - [**Puppizz Games**](https://github.com/Puppizz): is the other side. Indie game development. I've wanted to do for years and I'm finally starting, little by little. First project is *Life Chronicles* and it’s in its diapers.
 
 
-# **My Services** :
+### **My Services** :
 ###### _**If you would like to learn about the services I offer, please visit [**Blue Rings Labs**](https://github.com/BlueRingsLabs) and check the "Services" section of the Readme. You will also find a contact form there.**_
 
 ---
 
-# Porfolio, Products & Projects : _**On Pinned Projects.**_ ⤵️
+## Porfolio, Products & Projects : _**On Pinned Projects.**_ ⤵️
