@@ -1,4 +1,4 @@
-## Hi Im Gonzalo Romero
+# Hi Im Gonzalo Romero
 
 [ **Argentina** ]  
 [ **Systems Engineering (UTN, in progress)** ]  
@@ -7,21 +7,31 @@
 [ [Gmail Me](mailto:deeprat.tec@gmail.com) ]
 
 
----
 I'm an AI and Software Engineer and a `Systems Engineering student (UTN)` with over **15 years of programming** experience. I started as "777vs666," creating Lua mods for STALKER: Shadow of Chernobyl and translating Call of Pripyat for a small Spanish-speaking community dedicated to the series. Trying to fix the X-Ray engine's constant crashes, I ended up learning **C++** (and didn't fix anything in X-Ray, haha).
 From there, I moved on to **Python** and **Ruby**, training in _Data Science and Machine/Deep Learning_. I went through a _Cybersecurity_ obsession phase, pentesting everything I could with **ZAP**. Then came _AI Engineering_. I invested thousands in _GPUs, AWS, and GCloud_ just to experiment freely while completing courses, studying, and supporting myself with _private bug bounty campaigns_.
 
 **I love this**.
 
+
+# What Im Doing : 
+
+ - [**Blue Rings Labs**](https://github.com/BlueRingsLabs): My development and education laboratory, something like my brand.
+
+<div align="center">
+
+ ### ◎[**Blue Rings Comunity-Discord Server**](https://discord.gg/yScNsRhXMf)◎
+
+</div>
+
 ---
-## Porfolio, Products & Projects : _**On Pinned Projects.**_
 
 
-### What Im Doing : 
-
-[**Blue Rings Labs**](https://github.com/BlueRingsLabs): My development and education laboratory, something like my brand.
+- [**Puppizz Games**](https://github.com/Puppizz): is the other side. Indie game development. I've wanted to do for years and I'm finally starting, little by little. First project is *Life Chronicles* and it’s in its diapers.
 
 
-[**Puppizz Games**](https://github.com/Puppizz): is the other side. Indie game development. I've wanted to do for years and I'm finally starting, little by little. First project is *Life Chronicles*
+# **My Services** :
+###### _**If you would like to learn about the services I offer, please visit [**Blue Rings Labs**](https://github.com/BlueRingsLabs) and check the "Services" section of the Readme. You will also find a contact form there.**_
 
 ---
+
+# Porfolio, Products & Projects : _**On Pinned Projects.**_ ⤵️
